@@ -4,20 +4,20 @@ current Elo ratings.
 Elo's raw expected score isn't a clean 3-outcome probability (a draw
 counts as 0.5 "score" for both teams), so it can't be published
 directly as "win probability" without overstating precision. We
-decompose it using NWSL's empirical historical draw rate:
-    expected_home = P(home win) + 0.5 * P(draw)
-So, given an estimated P(draw):
-    P(home win) = expected_home - 0.5 * P(draw)
-    P(away win) = 1 - P(home win) - P(draw)
+decompose it using a Poisson goal-scoring model (see goal_model.py)
+fit on real historical scorelines, rather than a single constant
+draw rate applied to every match regardless of how mismatched the
+teams are — mismatched games really do produce fewer draws than
+close ones, and the fitted model reflects that directly.
 """
 import requests
 import pandas as pd
 from elo_model import run_elo, expected_score
+from goal_model import fit_goal_model, predict as goal_model_predict
 
 HOME_ADVANTAGE = 25.0
 K_FACTOR = 10.0
 REGRESSION_FACTOR = 0.5
-DRAW_RATE = 0.231  # empirical rate from backtest.py's historical analysis
 
 BASE = "https://site.api.espn.com/apis/site/v2/sports/soccer/usa.nwsl/scoreboard"
 
@@ -32,6 +32,12 @@ def current_ratings() -> dict:
     _, final_ratings = run_elo(df, home_advantage=HOME_ADVANTAGE, k_factor=K_FACTOR,
                                 regression_factor=REGRESSION_FACTOR)
     return final_ratings
+
+
+def fitted_goal_coefficients():
+    preds = pd.read_csv("data/predictions.csv")
+    tune_set = preds[preds["season"].isin([2021, 2022, 2023])]
+    return fit_goal_model(tune_set)
 
 
 def pull_upcoming(start: str, end: str) -> list[dict]:
@@ -60,28 +66,17 @@ def pull_upcoming(start: str, end: str) -> list[dict]:
     return rows
 
 
-def win_draw_loss(rating_home: float, rating_away: float) -> tuple[float, float, float]:
-    exp_home = expected_score(rating_home + HOME_ADVANTAGE, rating_away)
-    p_draw = DRAW_RATE
-    p_home = exp_home - 0.5 * p_draw
-    p_away = 1 - p_home - p_draw
-
-    # Defensive clip in case future ratings drift outside the historical range.
-    p_home = max(0.0, min(1.0, p_home))
-    p_away = max(0.0, min(1.0, p_away))
-    p_draw = 1 - p_home - p_away
-    return p_home, p_draw, p_away
-
-
 def main(start: str, end: str):
     ratings = current_ratings()
+    home_coef, away_coef = fitted_goal_coefficients()
     matches = pull_upcoming(start, end)
 
     rows = []
     for m in matches:
         r_home = ratings.get(m["home_team"], 1500.0)
         r_away = ratings.get(m["away_team"], 1500.0)
-        p_home, p_draw, p_away = win_draw_loss(r_home, r_away)
+        exp_home = expected_score(r_home + HOME_ADVANTAGE, r_away)
+        p_home, p_draw, p_away = goal_model_predict(exp_home, home_coef, away_coef)
         rows.append({
             "date": m["date"],
             "home_team": m["home_team"],
