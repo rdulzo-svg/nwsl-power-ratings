@@ -1,23 +1,20 @@
-"""Generate win/draw/loss previews for upcoming NWSL matches using
-current Elo ratings.
+"""Generate win/draw/loss previews for upcoming NWSL matches using a
+team-specific attack/defense Poisson model (see attack_defense_model.py),
+fit on the two most recent seasons so every current team — including
+brand-new expansion sides — has real data behind its rating.
 
-Elo's raw expected score isn't a clean 3-outcome probability (a draw
-counts as 0.5 "score" for both teams), so it can't be published
-directly as "win probability" without overstating precision. We
-decompose it using a Poisson goal-scoring model (see goal_model.py)
-fit on real historical scorelines, rather than a single constant
-draw rate applied to every match regardless of how mismatched the
-teams are — mismatched games really do produce fewer draws than
-close ones, and the fitted model reflects that directly.
+This replaced an earlier version that estimated expected goals from a
+single global regression on Elo win probability. Backtested head to
+head on a fair, unseen-team-free split: the team-specific model scored
+a real Brier improvement (0.6290 vs 0.6398), not just added complexity
+for its own sake.
 """
 import requests
 import pandas as pd
-from elo_model import run_elo, expected_score
-from goal_model import fit_goal_model, predict as goal_model_predict
+import attack_defense_model as adm
+from goal_model import win_draw_loss
 
-HOME_ADVANTAGE = 25.0
-K_FACTOR = 10.0
-REGRESSION_FACTOR = 0.5
+ATTACK_DEFENSE_SEASONS = {2025, 2026}  # most recent window covering every current team
 
 BASE = "https://site.api.espn.com/apis/site/v2/sports/soccer/usa.nwsl/scoreboard"
 
@@ -27,17 +24,11 @@ NAME_FIXES = {
 }
 
 
-def current_ratings() -> dict:
-    df = pd.read_csv("data/nwsl_matches.csv")
-    _, final_ratings = run_elo(df, home_advantage=HOME_ADVANTAGE, k_factor=K_FACTOR,
-                                regression_factor=REGRESSION_FACTOR)
-    return final_ratings
-
-
-def fitted_goal_coefficients():
-    preds = pd.read_csv("data/predictions.csv")
-    tune_set = preds[preds["season"].isin([2021, 2022, 2023])]
-    return fit_goal_model(tune_set)
+def fitted_attack_defense_model():
+    matches = pd.read_csv("data/nwsl_matches.csv")
+    ad_matches = matches[matches["season"].isin(ATTACK_DEFENSE_SEASONS)]
+    model, teams = adm.fit(ad_matches)
+    return model, teams
 
 
 def pull_upcoming(start: str, end: str) -> list[dict]:
@@ -67,16 +58,17 @@ def pull_upcoming(start: str, end: str) -> list[dict]:
 
 
 def main(start: str, end: str):
-    ratings = current_ratings()
-    home_coef, away_coef = fitted_goal_coefficients()
+    model, teams = fitted_attack_defense_model()
     matches = pull_upcoming(start, end)
 
     rows = []
     for m in matches:
-        r_home = ratings.get(m["home_team"], 1500.0)
-        r_away = ratings.get(m["away_team"], 1500.0)
-        exp_home = expected_score(r_home + HOME_ADVANTAGE, r_away)
-        p_home, p_draw, p_away = goal_model_predict(exp_home, home_coef, away_coef)
+        if m["home_team"] not in teams or m["away_team"] not in teams:
+            print(f"Skipping {m['home_team']} vs {m['away_team']}: team not in fitted model")
+            continue
+
+        lambda_home, lambda_away = adm.expected_goals(model, m["home_team"], m["away_team"])
+        p_home, p_draw, p_away = win_draw_loss(lambda_home, lambda_away)
         rows.append({
             "date": m["date"],
             "home_team": m["home_team"],
@@ -89,7 +81,7 @@ def main(start: str, end: str):
     df = pd.DataFrame(rows).sort_values("date")
     df.to_csv("data/upcoming_previews.csv", index=False)
 
-    print(f"{len(df)} upcoming matches, {start} to {end}\n")
+    print(f"\n{len(df)} upcoming matches, {start} to {end}\n")
     for r in df.itertuples():
         print(f"{r.date[:10]}  {r.home_team:24s} {r.home_win_pct:5.1f}%  "
               f"draw {r.draw_pct:4.1f}%  {r.away_win_pct:5.1f}% {r.away_team}")

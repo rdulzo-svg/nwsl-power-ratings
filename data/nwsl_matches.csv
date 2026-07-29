@@ -6,41 +6,41 @@ date,season,home_team,away_team,home_score,away_score,venue
 2019-04-17,2019,North Carolina Courage,Orlando Pride,5,0,WakeMed Soccer Park
 2019-04-20,2019,Chicago Stars FC,Portland Thorns FC,4,4,SeatGeek Stadium
 2019-04-20,2019,Gotham FC,Houston Dash,0,1,RWJBarnabas Health Stadium at Yurcak Field
-2019-04-21,2019,Utah Royals,Washington Spirit,1,0,America First Field
+2019-04-21,2019,Utah Royals FC,Washington Spirit,1,0,America First Field
 2019-04-22,2019,Seattle Reign FC,Orlando Pride,1,1,Cheney Stadium
-2019-04-27,2019,Orlando Pride,Utah Royals,0,1,Inter&Co Stadium
+2019-04-27,2019,Orlando Pride,Utah Royals FC,0,1,Inter&Co Stadium
 2019-04-28,2019,Chicago Stars FC,Seattle Reign FC,3,0,SeatGeek Stadium
 2019-04-28,2019,Gotham FC,Portland Thorns FC,2,2,RWJBarnabas Health Stadium at Yurcak Field
 2019-04-28,2019,Houston Dash,North Carolina Courage,1,4,Shell Energy Stadium
 2019-05-04,2019,North Carolina Courage,Gotham FC,0,0,WakeMed Soccer Park
 2019-05-04,2019,Washington Spirit,Seattle Reign FC,0,0,Maryland SoccerPlex
-2019-05-04,2019,Utah Royals,Chicago Stars FC,1,0,America First Field
+2019-05-04,2019,Utah Royals FC,Chicago Stars FC,1,0,America First Field
 2019-05-05,2019,Houston Dash,Orlando Pride,1,0,Shell Energy Stadium
 2019-05-11,2019,Gotham FC,Washington Spirit,2,3,RWJBarnabas Health Stadium at Yurcak Field
-2019-05-11,2019,Utah Royals,Houston Dash,1,2,America First Field
+2019-05-11,2019,Utah Royals FC,Houston Dash,1,2,America First Field
 2019-05-11,2019,Orlando Pride,Portland Thorns FC,1,3,Inter&Co Stadium
 2019-05-12,2019,Chicago Stars FC,North Carolina Courage,3,1,SeatGeek Stadium
 2019-05-18,2019,Seattle Reign FC,Gotham FC,2,1,Cheney Stadium
 2019-05-18,2019,Washington Spirit,Portland Thorns FC,3,1,Maryland SoccerPlex
-2019-05-19,2019,North Carolina Courage,Utah Royals,1,1,WakeMed Soccer Park
+2019-05-19,2019,North Carolina Courage,Utah Royals FC,1,1,WakeMed Soccer Park
 2019-05-19,2019,Houston Dash,Chicago Stars FC,1,2,Shell Energy Stadium
 2019-05-25,2019,Gotham FC,Portland Thorns FC,0,1,RWJBarnabas Health Stadium at Yurcak Field
-2019-05-26,2019,Utah Royals,Orlando Pride,2,0,America First Field
+2019-05-26,2019,Utah Royals FC,Orlando Pride,2,0,America First Field
 2019-05-26,2019,Chicago Stars FC,Washington Spirit,0,2,SeatGeek Stadium
 2019-05-27,2019,Seattle Reign FC,North Carolina Courage,2,1,Cheney Stadium
 2019-06-01,2019,Orlando Pride,North Carolina Courage,0,3,Inter&Co Stadium
-2019-06-01,2019,Washington Spirit,Utah Royals,2,0,Maryland SoccerPlex
+2019-06-01,2019,Washington Spirit,Utah Royals FC,2,0,Maryland SoccerPlex
 2019-06-02,2019,Portland Thorns FC,Chicago Stars FC,3,0,Providence Park
 2019-06-02,2019,Seattle Reign FC,Houston Dash,1,1,Cheney Stadium
 2019-06-15,2019,North Carolina Courage,Portland Thorns FC,1,1,WakeMed Soccer Park
 2019-06-16,2019,Houston Dash,Orlando Pride,2,2,Shell Energy Stadium
 2019-06-16,2019,Seattle Reign FC,Washington Spirit,1,1,Cheney Stadium
-2019-06-16,2019,Utah Royals,Gotham FC,1,0,America First Field
-2019-06-22,2019,Portland Thorns FC,Utah Royals,0,0,Providence Park
+2019-06-16,2019,Utah Royals FC,Gotham FC,1,0,America First Field
+2019-06-22,2019,Portland Thorns FC,Utah Royals FC,0,0,Providence Park
 2019-06-22,2019,Gotham FC,Orlando Pride,1,2,RWJBarnabas Health Stadium at Yurcak Field
 2019-06-22,2019,Washington Spirit,Houston Dash,0,0,Maryland SoccerPlex
 2019-06-23,2019,Chicago Stars FC,Seattle Reign FC,0,1,SeatGeek Stadium
-2019-06-29,2019,Utah Royals,Seattle Reign FC,0,2,America First Field
+2019-06-29,2019,Utah Royals FC,Seattle Reign FC,0,2,America First Field
 2019-06-30,2019,Washington Spirit,North Carolina Courage,1,2,Maryland SoccerPlex
 2019-06-30,2019,Houston Dash,Portland Thorns FC,1,2,Shell Energy Stadium
 2019-06-30,2019,Orlando Pride,Chicago Stars FC,2,3,Inter&Co Stadium
@@ -48,46 +48,46 @@ date,season,home_team,away_team,home_score,away_score,venue
 2019-07-06,2019,Portland Thorns FC,Seattle Reign FC,0,1,Providence Park
 2019-07-07,2019,Orlando Pride,Washington Spirit,4,3,Inter&Co Stadium
 2019-07-07,2019,Chicago Stars FC,Gotham FC,1,2,SeatGeek Stadium
-2019-07-12,2019,Gotham FC,Utah Royals,1,0,RWJBarnabas Health Stadium at Yurcak Field
+2019-07-12,2019,Gotham FC,Utah Royals FC,1,0,RWJBarnabas Health Stadium at Yurcak Field
 2019-07-13,2019,North Carolina Courage,Seattle Reign FC,2,0,WakeMed Soccer Park
 2019-07-14,2019,Houston Dash,Chicago Stars FC,0,1,Shell Energy Stadium
 2019-07-14,2019,Portland Thorns FC,Orlando Pride,4,3,Providence Park
-2019-07-20,2019,Utah Royals,Portland Thorns FC,2,2,America First Field
+2019-07-20,2019,Utah Royals FC,Portland Thorns FC,2,2,America First Field
 2019-07-20,2019,Orlando Pride,Gotham FC,1,0,Inter&Co Stadium
 2019-07-21,2019,Washington Spirit,Houston Dash,1,2,Maryland SoccerPlex
 2019-07-21,2019,Chicago Stars FC,North Carolina Courage,2,1,SeatGeek Stadium
 2019-07-24,2019,Gotham FC,Washington Spirit,0,1,RWJBarnabas Health Stadium at Yurcak Field
 2019-07-25,2019,Portland Thorns FC,Houston Dash,5,0,Providence Park
-2019-07-28,2019,Utah Royals,North Carolina Courage,1,2,America First Field
+2019-07-28,2019,Utah Royals FC,North Carolina Courage,1,2,America First Field
 2019-07-28,2019,Seattle Reign FC,Chicago Stars FC,0,4,Cheney Stadium
 2019-07-29,2019,Houston Dash,Gotham FC,1,0,Shell Energy Stadium
 2019-08-02,2019,Houston Dash,Seattle Reign FC,0,1,Shell Energy Stadium
 2019-08-03,2019,North Carolina Courage,Washington Spirit,1,0,WakeMed Soccer Park
-2019-08-04,2019,Chicago Stars FC,Utah Royals,2,0,SeatGeek Stadium
+2019-08-04,2019,Chicago Stars FC,Utah Royals FC,2,0,SeatGeek Stadium
 2019-08-04,2019,Portland Thorns FC,Gotham FC,1,1,Providence Park
 2019-08-08,2019,Seattle Reign FC,Portland Thorns FC,1,0,Cheney Stadium
-2019-08-08,2019,Utah Royals,Gotham FC,3,0,America First Field
+2019-08-08,2019,Utah Royals FC,Gotham FC,3,0,America First Field
 2019-08-10,2019,Washington Spirit,Chicago Stars FC,0,1,Maryland SoccerPlex
 2019-08-10,2019,Orlando Pride,Houston Dash,0,1,Inter&Co Stadium
 2019-08-11,2019,Portland Thorns FC,North Carolina Courage,2,1,Providence Park
-2019-08-11,2019,Seattle Reign FC,Utah Royals,1,3,Cheney Stadium
+2019-08-11,2019,Seattle Reign FC,Utah Royals FC,1,3,Cheney Stadium
 2019-08-14,2019,Gotham FC,Chicago Stars FC,2,1,RWJBarnabas Health Stadium at Yurcak Field
-2019-08-17,2019,Orlando Pride,Utah Royals,0,2,Inter&Co Stadium
+2019-08-17,2019,Orlando Pride,Utah Royals FC,0,2,Inter&Co Stadium
 2019-08-18,2019,Portland Thorns FC,Washington Spirit,3,1,Providence Park
 2019-08-18,2019,Gotham FC,Seattle Reign FC,1,1,Sports Illustrated Stadium
 2019-08-21,2019,Chicago Stars FC,Orlando Pride,1,2,SeatGeek Stadium
-2019-08-21,2019,Washington Spirit,Utah Royals,0,0,Maryland SoccerPlex
+2019-08-21,2019,Washington Spirit,Utah Royals FC,0,0,Maryland SoccerPlex
 2019-08-24,2019,Washington Spirit,Orlando Pride,2,1,Audi Field
 2019-08-24,2019,North Carolina Courage,Seattle Reign FC,1,0,WakeMed Soccer Park
 2019-08-25,2019,Houston Dash,Gotham FC,1,2,Shell Energy Stadium
 2019-08-25,2019,Portland Thorns FC,Chicago Stars FC,3,0,Providence Park
-2019-09-07,2019,Utah Royals,Portland Thorns FC,1,0,America First Field
+2019-09-07,2019,Utah Royals FC,Portland Thorns FC,1,0,America First Field
 2019-09-07,2019,Gotham FC,North Carolina Courage,1,2,RWJBarnabas Health Stadium at Yurcak Field
 2019-09-08,2019,Seattle Reign FC,Orlando Pride,3,1,Cheney Stadium
 2019-09-08,2019,Chicago Stars FC,Houston Dash,3,0,SeatGeek Stadium
 2019-09-11,2019,Orlando Pride,Chicago Stars FC,0,1,Inter&Co Stadium
 2019-09-12,2019,Portland Thorns FC,North Carolina Courage,0,6,Providence Park
-2019-09-14,2019,Houston Dash,Utah Royals,2,1,Shell Energy Stadium
+2019-09-14,2019,Houston Dash,Utah Royals FC,2,1,Shell Energy Stadium
 2019-09-14,2019,North Carolina Courage,Orlando Pride,6,1,WakeMed Soccer Park
 2019-09-14,2019,Washington Spirit,Seattle Reign FC,2,2,Audi Field
 2019-09-15,2019,Gotham FC,Chicago Stars FC,0,3,RWJBarnabas Health Stadium at Yurcak Field
@@ -95,17 +95,17 @@ date,season,home_team,away_team,home_score,away_score,venue
 2019-09-22,2019,Portland Thorns FC,Houston Dash,1,0,Providence Park
 2019-09-22,2019,Seattle Reign FC,Gotham FC,0,1,Cheney Stadium
 2019-09-22,2019,Chicago Stars FC,Washington Spirit,3,1,SeatGeek Stadium
-2019-09-22,2019,Utah Royals,North Carolina Courage,0,3,America First Field
+2019-09-22,2019,Utah Royals FC,North Carolina Courage,0,3,America First Field
 2019-09-26,2019,Houston Dash,Washington Spirit,0,0,Shell Energy Stadium
-2019-09-26,2019,Seattle Reign FC,Utah Royals,2,1,Cheney Stadium
+2019-09-26,2019,Seattle Reign FC,Utah Royals FC,2,1,Cheney Stadium
 2019-09-28,2019,Washington Spirit,North Carolina Courage,2,1,Maryland SoccerPlex
-2019-09-29,2019,Chicago Stars FC,Utah Royals,2,1,SeatGeek Stadium
+2019-09-29,2019,Chicago Stars FC,Utah Royals FC,2,1,SeatGeek Stadium
 2019-09-29,2019,Gotham FC,Orlando Pride,1,1,Sports Illustrated Stadium
 2019-09-29,2019,Seattle Reign FC,Portland Thorns FC,2,0,Cheney Stadium
 2019-10-05,2019,Orlando Pride,Washington Spirit,0,3,Inter&Co Stadium
 2019-10-12,2019,North Carolina Courage,Gotham FC,3,2,WakeMed Soccer Park
 2019-10-12,2019,Orlando Pride,Seattle Reign FC,2,2,Inter&Co Stadium
-2019-10-13,2019,Utah Royals,Houston Dash,2,1,America First Field
+2019-10-13,2019,Utah Royals FC,Houston Dash,2,1,America First Field
 2019-10-13,2019,Portland Thorns FC,Washington Spirit,0,0,Providence Park
 2019-10-20,2019,Chicago Stars FC,Portland Thorns FC,1,0,SeatGeek Stadium
 2019-10-20,2019,North Carolina Courage,Seattle Reign FC,4,1,WakeMed Soccer Park
@@ -512,11 +512,11 @@ date,season,home_team,away_team,home_score,away_score,venue
 2024-03-16,2024,Kansas City Current,Portland Thorns FC,5,4,CPKC Stadium
 2024-03-16,2024,Racing Louisville FC,Orlando Pride,2,2,Lynn Family Stadium
 2024-03-16,2024,North Carolina Courage,Houston Dash,5,1,WakeMed Soccer Park
-2024-03-16,2024,Utah Royals,Chicago Stars FC,0,2,America First Field
+2024-03-16,2024,Utah Royals FC,Chicago Stars FC,0,2,America First Field
 2024-03-17,2024,Seattle Reign FC,Washington Spirit,1,0,Lumen Field
 2024-03-17,2024,Angel City FC,Bay FC,0,1,BMO Stadium
 2024-03-23,2024,Orlando Pride,Angel City FC,1,1,Inter&Co Stadium
-2024-03-23,2024,Utah Royals,North Carolina Courage,2,1,America First Field
+2024-03-23,2024,Utah Royals FC,North Carolina Courage,2,1,America First Field
 2024-03-23,2024,Chicago Stars FC,Seattle Reign FC,2,1,SeatGeek Stadium
 2024-03-23,2024,Washington Spirit,Bay FC,2,1,Audi Field
 2024-03-24,2024,Houston Dash,Racing Louisville FC,0,0,Shell Energy Stadium
@@ -528,16 +528,16 @@ date,season,home_team,away_team,home_score,away_score,venue
 2024-03-30,2024,North Carolina Courage,Gotham FC,1,0,WakeMed Soccer Park
 2024-03-30,2024,Portland Thorns FC,Racing Louisville FC,2,2,Providence Park
 2024-03-31,2024,Bay FC,Houston Dash,2,3,PayPal Park
-2024-03-31,2024,Washington Spirit,Utah Royals,2,1,Audi Field
+2024-03-31,2024,Washington Spirit,Utah Royals FC,2,1,Audi Field
 2024-04-13,2024,Houston Dash,Washington Spirit,1,3,Shell Energy Stadium
-2024-04-13,2024,Utah Royals,Orlando Pride,0,1,America First Field
+2024-04-13,2024,Utah Royals FC,Orlando Pride,0,1,America First Field
 2024-04-13,2024,North Carolina Courage,Portland Thorns FC,2,0,WakeMed Soccer Park
 2024-04-13,2024,Racing Louisville FC,San Diego Wave FC,0,0,Lynn Family Stadium
 2024-04-14,2024,Chicago Stars FC,Angel City FC,0,1,SeatGeek Stadium
 2024-04-14,2024,Gotham FC,Kansas City Current,1,1,Sports Illustrated Stadium
 2024-04-15,2024,Bay FC,Seattle Reign FC,3,2,PayPal Park
 2024-04-20,2024,Kansas City Current,Bay FC,5,2,CPKC Stadium
-2024-04-20,2024,Racing Louisville FC,Utah Royals,5,1,Lynn Family Stadium
+2024-04-20,2024,Racing Louisville FC,Utah Royals FC,5,1,Lynn Family Stadium
 2024-04-20,2024,Washington Spirit,Gotham FC,2,0,Audi Field
 2024-04-20,2024,Orlando Pride,San Diego Wave FC,1,0,Inter&Co Stadium
 2024-04-21,2024,Portland Thorns FC,Houston Dash,4,1,Providence Park
@@ -547,13 +547,13 @@ date,season,home_team,away_team,home_score,away_score,venue
 2024-04-27,2024,Angel City FC,Kansas City Current,1,3,BMO Stadium
 2024-04-27,2024,North Carolina Courage,Seattle Reign FC,1,0,WakeMed Soccer Park
 2024-04-27,2024,Chicago Stars FC,Portland Thorns FC,0,2,SeatGeek Stadium
-2024-04-27,2024,Utah Royals,Houston Dash,0,0,America First Field
+2024-04-27,2024,Utah Royals FC,Houston Dash,0,0,America First Field
 2024-04-28,2024,San Diego Wave FC,Bay FC,2,1,Snapdragon Stadium
 2024-04-28,2024,Gotham FC,Racing Louisville FC,1,1,Sports Illustrated Stadium
 2024-05-01,2024,Orlando Pride,North Carolina Courage,4,1,Inter&Co Stadium
 2024-05-02,2024,Bay FC,Portland Thorns FC,2,3,PayPal Park
 2024-05-02,2024,Chicago Stars FC,Washington Spirit,2,4,SeatGeek Stadium
-2024-05-04,2024,Utah Royals,Angel City FC,1,2,America First Field
+2024-05-04,2024,Utah Royals FC,Angel City FC,1,2,America First Field
 2024-05-04,2024,Seattle Reign FC,San Diego Wave FC,2,1,Lumen Field
 2024-05-04,2024,Gotham FC,North Carolina Courage,1,0,Sports Illustrated Stadium
 2024-05-05,2024,Portland Thorns FC,Washington Spirit,2,1,Providence Park
@@ -561,7 +561,7 @@ date,season,home_team,away_team,home_score,away_score,venue
 2024-05-05,2024,Orlando Pride,Racing Louisville FC,1,0,Inter&Co Stadium
 2024-05-06,2024,Bay FC,Chicago Stars FC,1,2,PayPal Park
 2024-05-09,2024,Houston Dash,Gotham FC,0,1,Shell Energy Stadium
-2024-05-09,2024,San Diego Wave FC,Utah Royals,2,0,Snapdragon Stadium
+2024-05-09,2024,San Diego Wave FC,Utah Royals FC,2,0,Snapdragon Stadium
 2024-05-09,2024,Seattle Reign FC,Kansas City Current,0,0,Lumen Field
 2024-05-11,2024,Racing Louisville FC,Washington Spirit,1,2,Lynn Family Stadium
 2024-05-11,2024,Orlando Pride,Bay FC,1,0,Inter&Co Stadium
@@ -569,8 +569,8 @@ date,season,home_team,away_team,home_score,away_score,venue
 2024-05-12,2024,Kansas City Current,North Carolina Courage,1,0,CPKC Stadium
 2024-05-12,2024,San Diego Wave FC,Gotham FC,1,1,Snapdragon Stadium
 2024-05-12,2024,Portland Thorns FC,Seattle Reign FC,4,0,Providence Park
-2024-05-12,2024,Chicago Stars FC,Utah Royals,3,1,SeatGeek Stadium
-2024-05-18,2024,North Carolina Courage,Utah Royals,1,0,WakeMed Soccer Park
+2024-05-12,2024,Chicago Stars FC,Utah Royals FC,3,1,SeatGeek Stadium
+2024-05-18,2024,North Carolina Courage,Utah Royals FC,1,0,WakeMed Soccer Park
 2024-05-18,2024,Bay FC,San Diego Wave FC,2,1,PayPal Park
 2024-05-18,2024,Houston Dash,Portland Thorns FC,0,2,Shell Energy Stadium
 2024-05-18,2024,Washington Spirit,Angel City FC,4,2,Audi Field
@@ -583,12 +583,12 @@ date,season,home_team,away_team,home_score,away_score,venue
 2024-05-25,2024,Houston Dash,North Carolina Courage,3,0,Shell Energy Stadium
 2024-05-25,2024,Bay FC,Gotham FC,0,2,PayPal Park
 2024-05-25,2024,Chicago Stars FC,Racing Louisville FC,0,1,SeatGeek Stadium
-2024-05-26,2024,Utah Royals,Kansas City Current,0,1,America First Field
+2024-05-26,2024,Utah Royals FC,Kansas City Current,0,1,America First Field
 2024-06-08,2024,Racing Louisville FC,Houston Dash,2,0,Lynn Family Stadium
 2024-06-08,2024,San Diego Wave FC,Orlando Pride,1,1,Snapdragon Stadium
 2024-06-08,2024,Gotham FC,Angel City FC,2,1,Sports Illustrated Stadium
 2024-06-08,2024,Chicago Stars FC,Bay FC,1,2,Wrigley Field
-2024-06-08,2024,Utah Royals,Washington Spirit,0,1,America First Field
+2024-06-08,2024,Utah Royals FC,Washington Spirit,0,1,America First Field
 2024-06-09,2024,Portland Thorns FC,North Carolina Courage,1,0,Providence Park
 2024-06-09,2024,Kansas City Current,Seattle Reign FC,5,2,CPKC Stadium
 2024-06-15,2024,Kansas City Current,Chicago Stars FC,2,2,CPKC Stadium
@@ -597,10 +597,10 @@ date,season,home_team,away_team,home_score,away_score,venue
 2024-06-15,2024,North Carolina Courage,Orlando Pride,0,0,WakeMed Soccer Park
 2024-06-16,2024,Houston Dash,Angel City FC,0,0,Shell Energy Stadium
 2024-06-16,2024,Seattle Reign FC,Portland Thorns FC,0,0,Lumen Field
-2024-06-17,2024,Bay FC,Utah Royals,0,1,PayPal Park
+2024-06-17,2024,Bay FC,Utah Royals FC,0,1,PayPal Park
 2024-06-19,2024,Gotham FC,San Diego Wave FC,2,1,Sports Illustrated Stadium
 2024-06-20,2024,Angel City FC,Racing Louisville FC,3,2,BMO Stadium
-2024-06-22,2024,Orlando Pride,Utah Royals,6,0,Inter&Co Stadium
+2024-06-22,2024,Orlando Pride,Utah Royals FC,6,0,Inter&Co Stadium
 2024-06-22,2024,Houston Dash,San Diego Wave FC,0,0,Shell Energy Stadium
 2024-06-23,2024,Bay FC,Angel City FC,1,0,PayPal Park
 2024-06-23,2024,Portland Thorns FC,Kansas City Current,1,4,Providence Park
@@ -611,7 +611,7 @@ date,season,home_team,away_team,home_score,away_score,venue
 2024-06-29,2024,San Diego Wave FC,Chicago Stars FC,0,3,Snapdragon Stadium
 2024-06-29,2024,Racing Louisville FC,Bay FC,0,1,Lynn Family Stadium
 2024-06-29,2024,Washington Spirit,North Carolina Courage,0,1,Audi Field
-2024-06-30,2024,Utah Royals,Portland Thorns FC,0,0,America First Field
+2024-06-30,2024,Utah Royals FC,Portland Thorns FC,0,0,America First Field
 2024-06-30,2024,Gotham FC,Seattle Reign FC,1,1,Sports Illustrated Stadium
 2024-06-30,2024,Angel City FC,Orlando Pride,0,3,BMO Stadium
 2024-07-06,2024,Kansas City Current,Orlando Pride,1,2,CPKC Stadium
@@ -620,9 +620,9 @@ date,season,home_team,away_team,home_score,away_score,venue
 2024-07-07,2024,Angel City FC,Gotham FC,1,2,BMO Stadium
 2024-07-07,2024,Bay FC,Washington Spirit,0,3,PayPal Park
 2024-07-07,2024,North Carolina Courage,Racing Louisville FC,3,1,WakeMed Soccer Park
-2024-07-07,2024,Seattle Reign FC,Utah Royals,1,1,Lumen Field
+2024-07-07,2024,Seattle Reign FC,Utah Royals FC,1,1,Lumen Field
 2024-08-24,2024,Houston Dash,Orlando Pride,0,1,Shell Energy Stadium
-2024-08-24,2024,Utah Royals,Bay FC,2,1,America First Field
+2024-08-24,2024,Utah Royals FC,Bay FC,2,1,America First Field
 2024-08-24,2024,Gotham FC,Portland Thorns FC,2,0,Sports Illustrated Stadium
 2024-08-24,2024,San Diego Wave FC,Angel City FC,1,2,Snapdragon Stadium
 2024-08-24,2024,Racing Louisville FC,Chicago Stars FC,3,1,Lynn Family Stadium
@@ -633,11 +633,11 @@ date,season,home_team,away_team,home_score,away_score,venue
 2024-09-01,2024,Orlando Pride,Gotham FC,2,0,Inter&Co Stadium
 2024-09-01,2024,Angel City FC,Chicago Stars FC,2,1,BMO Stadium
 2024-09-01,2024,North Carolina Courage,Kansas City Current,2,1,WakeMed Soccer Park
-2024-09-01,2024,Houston Dash,Utah Royals,1,3,Shell Energy Stadium
+2024-09-01,2024,Houston Dash,Utah Royals FC,1,3,Shell Energy Stadium
 2024-09-02,2024,San Diego Wave FC,Washington Spirit,1,1,Snapdragon Stadium
 2024-09-07,2024,Angel City FC,Seattle Reign FC,2,3,BMO Stadium
 2024-09-07,2024,Washington Spirit,Portland Thorns FC,2,1,Audi Field
-2024-09-07,2024,Kansas City Current,Utah Royals,1,0,CPKC Stadium
+2024-09-07,2024,Kansas City Current,Utah Royals FC,1,0,CPKC Stadium
 2024-09-08,2024,Bay FC,Racing Louisville FC,1,0,PayPal Park
 2024-09-08,2024,Gotham FC,Houston Dash,2,1,Sports Illustrated Stadium
 2024-09-08,2024,Chicago Stars FC,Orlando Pride,0,1,SeatGeek Stadium
@@ -647,18 +647,18 @@ date,season,home_team,away_team,home_score,away_score,venue
 2024-09-14,2024,Portland Thorns FC,Chicago Stars FC,0,1,Providence Park
 2024-09-14,2024,Racing Louisville FC,Angel City FC,2,1,Lynn Family Stadium
 2024-09-15,2024,Washington Spirit,Houston Dash,3,0,Audi Field
-2024-09-15,2024,Utah Royals,San Diego Wave FC,1,2,America First Field
+2024-09-15,2024,Utah Royals FC,San Diego Wave FC,1,2,America First Field
 2024-09-17,2024,Seattle Reign FC,Gotham FC,0,2,Lumen Field
 2024-09-21,2024,Kansas City Current,Washington Spirit,3,0,CPKC Stadium
 2024-09-21,2024,Bay FC,Orlando Pride,0,1,PayPal Park
 2024-09-21,2024,Racing Louisville FC,North Carolina Courage,2,1,Lynn Family Stadium
 2024-09-22,2024,Houston Dash,Seattle Reign FC,1,0,Shell Energy Stadium
 2024-09-22,2024,Chicago Stars FC,San Diego Wave FC,1,0,SeatGeek Stadium
-2024-09-22,2024,Gotham FC,Utah Royals,1,0,Sports Illustrated Stadium
+2024-09-22,2024,Gotham FC,Utah Royals FC,1,0,Sports Illustrated Stadium
 2024-09-24,2024,Angel City FC,Portland Thorns FC,2,2,BMO Stadium
 2024-09-28,2024,Angel City FC,Washington Spirit,1,2,BMO Stadium
 2024-09-28,2024,Kansas City Current,Gotham FC,1,1,CPKC Stadium
-2024-09-28,2024,Utah Royals,Racing Louisville FC,1,0,America First Field
+2024-09-28,2024,Utah Royals FC,Racing Louisville FC,1,0,America First Field
 2024-09-28,2024,Orlando Pride,Houston Dash,3,1,Inter&Co Stadium
 2024-09-29,2024,Chicago Stars FC,North Carolina Courage,1,3,SeatGeek Stadium
 2024-09-29,2024,Seattle Reign FC,Bay FC,0,1,Lumen Field
@@ -668,13 +668,13 @@ date,season,home_team,away_team,home_score,away_score,venue
 2024-10-05,2024,North Carolina Courage,San Diego Wave FC,2,1,WakeMed Soccer Park
 2024-10-05,2024,Gotham FC,Bay FC,5,1,Sports Illustrated Stadium
 2024-10-05,2024,Racing Louisville FC,Kansas City Current,0,2,Lynn Family Stadium
-2024-10-06,2024,Portland Thorns FC,Utah Royals,1,2,Providence Park
+2024-10-06,2024,Portland Thorns FC,Utah Royals FC,1,2,Providence Park
 2024-10-06,2024,Orlando Pride,Washington Spirit,2,0,Inter&Co Stadium
 2024-10-12,2024,Portland Thorns FC,Orlando Pride,2,0,Providence Park
 2024-10-12,2024,Chicago Stars FC,Gotham FC,0,2,SeatGeek Stadium
 2024-10-12,2024,North Carolina Courage,Angel City FC,1,1,WakeMed Soccer Park
 2024-10-13,2024,Bay FC,Kansas City Current,0,1,PayPal Park
-2024-10-13,2024,Utah Royals,Seattle Reign FC,3,0,America First Field
+2024-10-13,2024,Utah Royals FC,Seattle Reign FC,3,0,America First Field
 2024-10-13,2024,Washington Spirit,Racing Louisville FC,4,1,Audi Field
 2024-10-14,2024,San Diego Wave FC,Houston Dash,0,2,Snapdragon Stadium
 2024-10-19,2024,Racing Louisville FC,Portland Thorns FC,1,0,Lynn Family Stadium
@@ -683,8 +683,8 @@ date,season,home_team,away_team,home_score,away_score,venue
 2024-10-20,2024,Bay FC,North Carolina Courage,1,0,PayPal Park
 2024-10-20,2024,Gotham FC,Orlando Pride,3,1,Red Bull Arena
 2024-10-20,2024,Washington Spirit,Chicago Stars FC,2,0,Audi Field
-2024-10-20,2024,Angel City FC,Utah Royals,1,1,BMO Stadium
-2024-11-02,2024,Utah Royals,Gotham FC,1,4,America First Field
+2024-10-20,2024,Angel City FC,Utah Royals FC,1,1,BMO Stadium
+2024-11-02,2024,Utah Royals FC,Gotham FC,1,4,America First Field
 2024-11-02,2024,Portland Thorns FC,Angel City FC,3,0,Providence Park
 2024-11-02,2024,Orlando Pride,Seattle Reign FC,3,2,Inter&Co Stadium
 2024-11-02,2024,North Carolina Courage,Washington Spirit,0,1,WakeMed Soccer Park
@@ -701,7 +701,7 @@ date,season,home_team,away_team,home_score,away_score,venue
 2025-03-15,2025,Houston Dash,Washington Spirit,1,2,Shell Energy Stadium
 2025-03-15,2025,Orlando Pride,Chicago Stars FC,6,0,Inter&Co Stadium
 2025-03-15,2025,Kansas City Current,Portland Thorns FC,3,1,CPKC Stadium
-2025-03-15,2025,Utah Royals,Bay FC,1,1,America First Field
+2025-03-15,2025,Utah Royals FC,Bay FC,1,1,America First Field
 2025-03-16,2025,Racing Louisville FC,North Carolina Courage,1,1,Lynn Family Stadium
 2025-03-16,2025,Seattle Reign FC,Gotham FC,1,1,Lumen Field
 2025-03-16,2025,Angel City FC,San Diego Wave FC,1,1,BMO Stadium
@@ -710,23 +710,23 @@ date,season,home_team,away_team,home_score,away_score,venue
 2025-03-22,2025,Washington Spirit,Kansas City Current,0,2,Audi Field
 2025-03-23,2025,Gotham FC,Orlando Pride,0,2,Sports Illustrated Stadium
 2025-03-23,2025,Chicago Stars FC,Houston Dash,1,2,SeatGeek Stadium
-2025-03-23,2025,San Diego Wave FC,Utah Royals,3,2,Snapdragon Stadium
+2025-03-23,2025,San Diego Wave FC,Utah Royals FC,3,2,Snapdragon Stadium
 2025-03-23,2025,Bay FC,Racing Louisville FC,2,0,PayPal Park
 2025-03-29,2025,Houston Dash,Gotham FC,0,0,Shell Energy Stadium
 2025-03-29,2025,Washington Spirit,Bay FC,2,0,Audi Field
 2025-03-29,2025,Orlando Pride,San Diego Wave FC,2,1,Inter&Co Stadium
-2025-03-29,2025,Kansas City Current,Utah Royals,3,0,CPKC Stadium
+2025-03-29,2025,Kansas City Current,Utah Royals FC,3,0,CPKC Stadium
 2025-03-30,2025,Portland Thorns FC,North Carolina Courage,0,0,Providence Park
 2025-03-30,2025,Chicago Stars FC,Racing Louisville FC,0,1,SeatGeek Stadium
 2025-03-31,2025,Angel City FC,Seattle Reign FC,2,1,BMO Stadium
-2025-04-12,2025,Utah Royals,Portland Thorns FC,0,1,America First Field
+2025-04-12,2025,Utah Royals FC,Portland Thorns FC,0,1,America First Field
 2025-04-12,2025,Houston Dash,Angel City FC,1,3,Shell Energy Stadium
 2025-04-12,2025,Racing Louisville FC,Washington Spirit,0,2,Lynn Family Stadium
 2025-04-12,2025,Seattle Reign FC,Orlando Pride,0,1,Lumen Field
 2025-04-13,2025,Gotham FC,North Carolina Courage,3,1,Sports Illustrated Stadium
 2025-04-13,2025,Bay FC,Chicago Stars FC,1,2,PayPal Park
 2025-04-13,2025,San Diego Wave FC,Kansas City Current,0,2,Snapdragon Stadium
-2025-04-19,2025,Utah Royals,Chicago Stars FC,1,0,America First Field
+2025-04-19,2025,Utah Royals FC,Chicago Stars FC,1,0,America First Field
 2025-04-19,2025,Seattle Reign FC,Portland Thorns FC,1,0,Lumen Field
 2025-04-19,2025,Angel City FC,Gotham FC,0,4,BMO Stadium
 2025-04-19,2025,Racing Louisville FC,San Diego Wave FC,1,4,Lynn Family Stadium
@@ -734,7 +734,7 @@ date,season,home_team,away_team,home_score,away_score,venue
 2025-04-19,2025,North Carolina Courage,Bay FC,0,1,WakeMed Soccer Park
 2025-04-19,2025,Kansas City Current,Houston Dash,2,0,CPKC Stadium
 2025-04-23,2025,Portland Thorns FC,Gotham FC,4,1,Providence Park
-2025-04-26,2025,Houston Dash,Utah Royals,1,0,Shell Energy Stadium
+2025-04-26,2025,Houston Dash,Utah Royals FC,1,0,Shell Energy Stadium
 2025-04-26,2025,Orlando Pride,Angel City FC,3,2,Inter&Co Stadium
 2025-04-26,2025,Washington Spirit,Gotham FC,0,3,Audi Field
 2025-04-26,2025,North Carolina Courage,Kansas City Current,3,2,WakeMed Soccer Park
@@ -745,11 +745,11 @@ date,season,home_team,away_team,home_score,away_score,venue
 2025-05-03,2025,Houston Dash,Racing Louisville FC,1,2,Shell Energy Stadium
 2025-05-03,2025,Seattle Reign FC,Kansas City Current,1,0,Lumen Field
 2025-05-03,2025,Portland Thorns FC,Orlando Pride,1,0,Providence Park
-2025-05-04,2025,Utah Royals,North Carolina Courage,0,2,America First Field
+2025-05-04,2025,Utah Royals FC,North Carolina Courage,0,2,America First Field
 2025-05-04,2025,Gotham FC,Chicago Stars FC,0,0,Sports Illustrated Stadium
 2025-05-05,2025,San Diego Wave FC,Bay FC,2,1,Snapdragon Stadium
 2025-05-10,2025,Racing Louisville FC,Gotham FC,1,0,Lynn Family Stadium
-2025-05-10,2025,Angel City FC,Utah Royals,2,0,BMO Stadium
+2025-05-10,2025,Angel City FC,Utah Royals FC,2,0,BMO Stadium
 2025-05-10,2025,Chicago Stars FC,Washington Spirit,2,3,SeatGeek Stadium
 2025-05-10,2025,North Carolina Courage,Orlando Pride,1,1,WakeMed Soccer Park
 2025-05-11,2025,San Diego Wave FC,Portland Thorns FC,1,1,Snapdragon Stadium
@@ -758,17 +758,17 @@ date,season,home_team,away_team,home_score,away_score,venue
 2025-05-16,2025,Gotham FC,San Diego Wave FC,0,1,Sports Illustrated Stadium
 2025-05-17,2025,North Carolina Courage,Chicago Stars FC,2,0,WakeMed Soccer Park
 2025-05-17,2025,Racing Louisville FC,Seattle Reign FC,0,1,Lynn Family Stadium
-2025-05-17,2025,Washington Spirit,Utah Royals,3,3,Audi Field
+2025-05-17,2025,Washington Spirit,Utah Royals FC,3,3,Audi Field
 2025-05-17,2025,Houston Dash,Portland Thorns FC,1,4,Shell Energy Stadium
 2025-05-17,2025,Orlando Pride,Kansas City Current,0,1,Inter&Co Stadium
 2025-05-18,2025,Bay FC,Angel City FC,2,0,PayPal Park
-2025-05-24,2025,Utah Royals,Orlando Pride,1,3,America First Field
+2025-05-24,2025,Utah Royals FC,Orlando Pride,1,3,America First Field
 2025-05-24,2025,Seattle Reign FC,Washington Spirit,1,2,Lumen Field
 2025-05-24,2025,Chicago Stars FC,Kansas City Current,1,3,SeatGeek Stadium
 2025-05-25,2025,Houston Dash,Bay FC,2,2,Shell Energy Stadium
 2025-05-25,2025,Angel City FC,Racing Louisville FC,2,3,BMO Stadium
 2025-05-26,2025,San Diego Wave FC,North Carolina Courage,5,2,Snapdragon Stadium
-2025-06-07,2025,Racing Louisville FC,Utah Royals,3,2,Lynn Family Stadium
+2025-06-07,2025,Racing Louisville FC,Utah Royals FC,3,2,Lynn Family Stadium
 2025-06-07,2025,San Diego Wave FC,Seattle Reign FC,1,2,Snapdragon Stadium
 2025-06-07,2025,Gotham FC,Kansas City Current,1,2,Sports Illustrated Stadium
 2025-06-07,2025,Orlando Pride,Houston Dash,1,0,Inter&Co Stadium
@@ -776,7 +776,7 @@ date,season,home_team,away_team,home_score,away_score,venue
 2025-06-08,2025,Washington Spirit,North Carolina Courage,3,1,Audi Field
 2025-06-08,2025,Angel City FC,Chicago Stars FC,2,2,BMO Stadium
 2025-06-14,2025,Houston Dash,San Diego Wave FC,2,3,Shell Energy Stadium
-2025-06-14,2025,Utah Royals,Gotham FC,0,3,America First Field
+2025-06-14,2025,Utah Royals FC,Gotham FC,0,3,America First Field
 2025-06-14,2025,Bay FC,Orlando Pride,0,1,PayPal Park
 2025-06-14,2025,Chicago Stars FC,Seattle Reign FC,2,2,Soldier Field
 2025-06-14,2025,Kansas City Current,Racing Louisville FC,4,2,CPKC Stadium
@@ -784,7 +784,7 @@ date,season,home_team,away_team,home_score,away_score,venue
 2025-06-15,2025,Portland Thorns FC,Washington Spirit,2,0,Providence Park
 2025-06-21,2025,Kansas City Current,Angel City FC,1,0,CPKC Stadium
 2025-06-21,2025,Racing Louisville FC,Orlando Pride,2,0,Lynn Family Stadium
-2025-06-21,2025,Utah Royals,Seattle Reign FC,1,4,America First Field
+2025-06-21,2025,Utah Royals FC,Seattle Reign FC,1,4,America First Field
 2025-06-21,2025,Gotham FC,Bay FC,2,1,Sports Illustrated Stadium
 2025-06-21,2025,North Carolina Courage,Houston Dash,2,1,WakeMed Soccer Park
 2025-06-22,2025,Portland Thorns FC,Chicago Stars FC,1,0,Providence Park
@@ -795,9 +795,9 @@ date,season,home_team,away_team,home_score,away_score,venue
 2025-08-02,2025,Chicago Stars FC,Gotham FC,1,1,SeatGeek Stadium
 2025-08-03,2025,Bay FC,Houston Dash,2,2,PayPal Park
 2025-08-03,2025,Washington Spirit,Portland Thorns FC,2,1,Audi Field
-2025-08-03,2025,Orlando Pride,Utah Royals,1,1,Inter&Co Stadium
+2025-08-03,2025,Orlando Pride,Utah Royals FC,1,1,Inter&Co Stadium
 2025-08-09,2025,Houston Dash,North Carolina Courage,2,1,Shell Energy Stadium
-2025-08-09,2025,Utah Royals,Kansas City Current,0,1,America First Field
+2025-08-09,2025,Utah Royals FC,Kansas City Current,0,1,America First Field
 2025-08-09,2025,Gotham FC,Washington Spirit,0,0,Sports Illustrated Stadium
 2025-08-09,2025,Orlando Pride,Racing Louisville FC,1,1,Inter&Co Stadium
 2025-08-10,2025,San Diego Wave FC,Angel City FC,1,1,Snapdragon Stadium
@@ -806,13 +806,13 @@ date,season,home_team,away_team,home_score,away_score,venue
 2025-08-16,2025,Kansas City Current,Orlando Pride,0,0,CPKC Stadium
 2025-08-16,2025,North Carolina Courage,Portland Thorns FC,1,1,WakeMed Soccer Park
 2025-08-16,2025,Washington Spirit,Racing Louisville FC,2,2,Audi Field
-2025-08-16,2025,Utah Royals,Angel City FC,0,0,America First Field
+2025-08-16,2025,Utah Royals FC,Angel City FC,0,0,America First Field
 2025-08-17,2025,Bay FC,San Diego Wave FC,1,2,PayPal Park
 2025-08-17,2025,Gotham FC,Houston Dash,1,2,Sports Illustrated Stadium
 2025-08-19,2025,Seattle Reign FC,Chicago Stars FC,3,3,Lumen Field
 2025-08-22,2025,Angel City FC,Orlando Pride,1,0,BMO Stadium
 2025-08-23,2025,Bay FC,Washington Spirit,2,3,Oracle Park
-2025-08-23,2025,Gotham FC,Utah Royals,0,0,Sports Illustrated Stadium
+2025-08-23,2025,Gotham FC,Utah Royals FC,0,0,Sports Illustrated Stadium
 2025-08-23,2025,Chicago Stars FC,North Carolina Courage,3,3,SeatGeek Stadium
 2025-08-24,2025,Portland Thorns FC,Kansas City Current,0,2,Providence Park
 2025-08-24,2025,Houston Dash,Seattle Reign FC,1,1,Shell Energy Stadium
@@ -820,12 +820,12 @@ date,season,home_team,away_team,home_score,away_score,venue
 2025-08-29,2025,Racing Louisville FC,Houston Dash,1,1,Lynn Family Stadium
 2025-08-30,2025,Seattle Reign FC,San Diego Wave FC,0,0,Lumen Field
 2025-08-30,2025,Orlando Pride,Gotham FC,0,2,Inter&Co Stadium
-2025-08-30,2025,Portland Thorns FC,Utah Royals,1,2,Providence Park
+2025-08-30,2025,Portland Thorns FC,Utah Royals FC,1,2,Providence Park
 2025-08-30,2025,Kansas City Current,North Carolina Courage,2,0,CPKC Stadium
 2025-08-31,2025,Washington Spirit,Chicago Stars FC,1,1,Audi Field
 2025-09-02,2025,Angel City FC,Bay FC,2,1,BMO Stadium
 2025-09-06,2025,Racing Louisville FC,Portland Thorns FC,1,2,Lynn Family Stadium
-2025-09-06,2025,North Carolina Courage,Utah Royals,1,1,WakeMed Soccer Park
+2025-09-06,2025,North Carolina Courage,Utah Royals FC,1,1,WakeMed Soccer Park
 2025-09-07,2025,Bay FC,Kansas City Current,0,2,PayPal Park
 2025-09-07,2025,Chicago Stars FC,Orlando Pride,5,2,Northwestern Medicine Field at Martin Stadium
 2025-09-07,2025,Washington Spirit,Seattle Reign FC,2,0,Audi Field
@@ -836,11 +836,11 @@ date,season,home_team,away_team,home_score,away_score,venue
 2025-09-13,2025,San Diego Wave FC,Gotham FC,0,2,Snapdragon Stadium
 2025-09-13,2025,North Carolina Courage,Angel City FC,2,1,WakeMed Soccer Park
 2025-09-14,2025,Chicago Stars FC,Portland Thorns FC,1,1,SeatGeek Stadium
-2025-09-14,2025,Utah Royals,Houston Dash,2,0,America First Field
+2025-09-14,2025,Utah Royals FC,Houston Dash,2,0,America First Field
 2025-09-17,2025,Seattle Reign FC,Racing Louisville FC,1,0,Lumen Field
 2025-09-19,2025,Angel City FC,Washington Spirit,2,2,BMO Stadium
 2025-09-20,2025,Kansas City Current,Seattle Reign FC,2,0,CPKC Stadium
-2025-09-20,2025,Utah Royals,Racing Louisville FC,3,2,America First Field
+2025-09-20,2025,Utah Royals FC,Racing Louisville FC,3,2,America First Field
 2025-09-20,2025,Houston Dash,Chicago Stars FC,1,0,Shell Energy Stadium
 2025-09-20,2025,Orlando Pride,North Carolina Courage,0,1,Inter&Co Stadium
 2025-09-21,2025,Portland Thorns FC,San Diego Wave FC,1,1,Providence Park
@@ -849,13 +849,13 @@ date,season,home_team,away_team,home_score,away_score,venue
 2025-09-27,2025,Kansas City Current,Chicago Stars FC,4,1,CPKC Stadium
 2025-09-27,2025,San Diego Wave FC,Orlando Pride,1,2,Snapdragon Stadium
 2025-09-27,2025,Racing Louisville FC,Angel City FC,1,0,Lynn Family Stadium
-2025-09-28,2025,Bay FC,Utah Royals,0,2,PayPal Park
+2025-09-28,2025,Bay FC,Utah Royals FC,0,2,PayPal Park
 2025-09-28,2025,Washington Spirit,Houston Dash,4,0,Audi Field
 2025-09-29,2025,Seattle Reign FC,North Carolina Courage,2,1,Lumen Field
 2025-10-04,2025,Houston Dash,Orlando Pride,1,1,Shell Energy Stadium
 2025-10-04,2025,North Carolina Courage,Racing Louisville FC,1,3,WakeMed Soccer Park
 2025-10-05,2025,Gotham FC,Seattle Reign FC,0,0,Sports Illustrated Stadium
-2025-10-05,2025,Chicago Stars FC,Utah Royals,2,2,SeatGeek Stadium
+2025-10-05,2025,Chicago Stars FC,Utah Royals FC,2,2,SeatGeek Stadium
 2025-10-05,2025,Portland Thorns FC,Bay FC,2,1,Providence Park
 2025-10-05,2025,Washington Spirit,San Diego Wave FC,2,1,Audi Field
 2025-10-07,2025,Angel City FC,Kansas City Current,0,1,BMO Stadium
@@ -864,10 +864,10 @@ date,season,home_team,away_team,home_score,away_score,venue
 2025-10-11,2025,Seattle Reign FC,Bay FC,1,1,Lumen Field
 2025-10-11,2025,Kansas City Current,Gotham FC,2,0,CPKC Stadium
 2025-10-11,2025,North Carolina Courage,Washington Spirit,1,1,WakeMed Soccer Park
-2025-10-12,2025,Utah Royals,San Diego Wave FC,2,3,America First Field
+2025-10-12,2025,Utah Royals FC,San Diego Wave FC,2,3,America First Field
 2025-10-12,2025,Angel City FC,Houston Dash,2,0,BMO Stadium
 2025-10-18,2025,Bay FC,North Carolina Courage,1,4,PayPal Park
-2025-10-18,2025,Seattle Reign FC,Utah Royals,2,1,Lumen Field
+2025-10-18,2025,Seattle Reign FC,Utah Royals FC,2,1,Lumen Field
 2025-10-18,2025,Washington Spirit,Orlando Pride,2,3,Audi Field
 2025-10-18,2025,Houston Dash,Kansas City Current,1,0,Shell Energy Stadium
 2025-10-19,2025,Gotham FC,Racing Louisville FC,2,2,Sports Illustrated Stadium
@@ -879,7 +879,7 @@ date,season,home_team,away_team,home_score,away_score,venue
 2025-11-02,2025,Orlando Pride,Seattle Reign FC,1,1,Inter&Co Stadium
 2025-11-02,2025,Portland Thorns FC,Houston Dash,2,0,Providence Park
 2025-11-02,2025,Racing Louisville FC,Bay FC,1,0,Lynn Family Stadium
-2025-11-02,2025,Utah Royals,Washington Spirit,1,0,America First Field
+2025-11-02,2025,Utah Royals FC,Washington Spirit,1,0,America First Field
 2025-11-08,2025,Orlando Pride,Seattle Reign FC,2,0,Inter&Co Stadium
 2025-11-08,2025,Washington Spirit,Racing Louisville FC,1,1,Audi Field
 2025-11-09,2025,Kansas City Current,Gotham FC,1,2,CPKC Stadium
@@ -889,7 +889,7 @@ date,season,home_team,away_team,home_score,away_score,venue
 2025-11-23,2025,Washington Spirit,Gotham FC,0,1,PayPal Park
 2026-03-14,2026,Washington Spirit,Portland Thorns FC,0,1,Audi Field
 2026-03-14,2026,Boston Legacy FC,Gotham FC,0,1,Gillette Stadium
-2026-03-14,2026,Kansas City Current,Utah Royals,2,1,CPKC Stadium
+2026-03-14,2026,Kansas City Current,Utah Royals FC,2,1,CPKC Stadium
 2026-03-14,2026,Bay FC,Denver Summit FC,2,1,PayPal Park
 2026-03-14,2026,North Carolina Courage,Racing Louisville FC,2,1,WakeMed Soccer Park
 2026-03-15,2026,San Diego Wave FC,Houston Dash,0,1,Snapdragon Stadium
@@ -901,16 +901,16 @@ date,season,home_team,away_team,home_score,away_score,venue
 2026-03-21,2026,Houston Dash,Boston Legacy FC,3,0,Shell Energy Stadium
 2026-03-21,2026,Gotham FC,North Carolina Courage,0,0,Red Bull Arena
 2026-03-22,2026,Chicago Stars FC,Kansas City Current,2,1,Northwestern Medicine Field at Martin Stadium
-2026-03-22,2026,Utah Royals,San Diego Wave FC,1,2,America First Field
+2026-03-22,2026,Utah Royals FC,San Diego Wave FC,1,2,America First Field
 2026-03-22,2026,Bay FC,Angel City FC,1,3,PayPal Park
 2026-03-25,2026,Gotham FC,Denver Summit FC,0,2,Red Bull Arena
-2026-03-25,2026,Washington Spirit,Utah Royals,1,1,Audi Field
+2026-03-25,2026,Washington Spirit,Utah Royals FC,1,1,Audi Field
 2026-03-26,2026,Chicago Stars FC,Orlando Pride,0,3,Northwestern Medicine Field at Martin Stadium
 2026-03-26,2026,Seattle Reign FC,Kansas City Current,3,0,ONE Spokane Stadium
 2026-03-26,2026,San Diego Wave FC,Portland Thorns FC,3,1,Snapdragon Stadium
 2026-03-28,2026,Denver Summit FC,Washington Spirit,0,0,Empower Field at Mile High
 2026-03-28,2026,Angel City FC,Houston Dash,2,1,BMO Stadium
-2026-03-28,2026,Boston Legacy FC,Utah Royals,1,2,Gillette Stadium
+2026-03-28,2026,Boston Legacy FC,Utah Royals FC,1,2,Gillette Stadium
 2026-03-28,2026,Portland Thorns FC,Kansas City Current,2,0,Providence Park
 2026-03-28,2026,Seattle Reign FC,Racing Louisville FC,2,1,ONE Spokane Stadium
 2026-03-28,2026,North Carolina Courage,Bay FC,1,3,WakeMed Soccer Park
@@ -921,7 +921,7 @@ date,season,home_team,away_team,home_score,away_score,venue
 2026-04-04,2026,Kansas City Current,Gotham FC,2,1,CPKC Stadium
 2026-04-04,2026,Houston Dash,Racing Louisville FC,4,3,Shell Energy Stadium
 2026-04-04,2026,Orlando Pride,Angel City FC,2,1,Inter&Co Stadium
-2026-04-04,2026,Utah Royals,Chicago Stars FC,1,0,America First Field
+2026-04-04,2026,Utah Royals FC,Chicago Stars FC,1,0,America First Field
 2026-04-05,2026,Seattle Reign FC,Denver Summit FC,0,0,ONE Spokane Stadium
 2026-04-05,2026,Bay FC,Washington Spirit,0,2,PayPal Park
 2026-04-24,2026,Racing Louisville FC,Orlando Pride,3,2,Lynn Family Stadium
@@ -931,7 +931,7 @@ date,season,home_team,away_team,home_score,away_score,venue
 2026-04-26,2026,Houston Dash,North Carolina Courage,0,1,Shell Energy Stadium
 2026-04-26,2026,Denver Summit FC,San Diego Wave FC,2,3,Dick's Sporting Goods Park
 2026-04-26,2026,Angel City FC,Portland Thorns FC,1,2,BMO Stadium
-2026-04-27,2026,Seattle Reign FC,Utah Royals,0,3,Lumen Field
+2026-04-27,2026,Seattle Reign FC,Utah Royals FC,0,3,Lumen Field
 2026-04-29,2026,Washington Spirit,Racing Louisville FC,1,0,Audi Field
 2026-04-29,2026,Boston Legacy FC,North Carolina Courage,2,2,Gillette Stadium
 2026-04-30,2026,Portland Thorns FC,San Diego Wave FC,2,0,Providence Park
@@ -939,17 +939,17 @@ date,season,home_team,away_team,home_score,away_score,venue
 2026-05-02,2026,Houston Dash,Seattle Reign FC,0,0,Shell Energy Stadium
 2026-05-02,2026,Orlando Pride,Washington Spirit,2,4,Inter&Co Stadium
 2026-05-02,2026,North Carolina Courage,Kansas City Current,1,2,WakeMed Soccer Park
-2026-05-03,2026,Angel City FC,Utah Royals,0,1,BMO Stadium
+2026-05-03,2026,Angel City FC,Utah Royals FC,0,1,BMO Stadium
 2026-05-03,2026,Chicago Stars FC,Portland Thorns FC,0,2,Northwestern Medicine Field at Martin Stadium
 2026-05-03,2026,Boston Legacy FC,Denver Summit FC,3,2,Gillette Stadium
 2026-05-03,2026,Gotham FC,Racing Louisville FC,1,0,Red Bull Arena
 2026-05-03,2026,San Diego Wave FC,Bay FC,0,1,Snapdragon Stadium
-2026-05-07,2026,Utah Royals,Houston Dash,2,0,America First Field
+2026-05-07,2026,Utah Royals FC,Houston Dash,2,0,America First Field
 2026-05-08,2026,Racing Louisville FC,Portland Thorns FC,3,1,Lynn Family Stadium
 2026-05-09,2026,Orlando Pride,North Carolina Courage,1,0,Inter&Co Stadium
 2026-05-09,2026,Gotham FC,Boston Legacy FC,1,1,Red Bull Arena
 2026-05-10,2026,Seattle Reign FC,Washington Spirit,0,1,Lumen Field
-2026-05-10,2026,Bay FC,Utah Royals,0,0,PayPal Park
+2026-05-10,2026,Bay FC,Utah Royals FC,0,0,PayPal Park
 2026-05-10,2026,Kansas City Current,Chicago Stars FC,3,0,CPKC Stadium
 2026-05-10,2026,Angel City FC,San Diego Wave FC,1,2,BMO Stadium
 2026-05-10,2026,Houston Dash,Denver Summit FC,1,4,Shell Energy Stadium
@@ -961,11 +961,11 @@ date,season,home_team,away_team,home_score,away_score,venue
 2026-05-16,2026,North Carolina Courage,Chicago Stars FC,4,0,WakeMed Soccer Park
 2026-05-17,2026,Denver Summit FC,Orlando Pride,3,1,Dick's Sporting Goods Park
 2026-05-17,2026,Portland Thorns FC,Angel City FC,0,0,Providence Park
-2026-05-18,2026,Utah Royals,Racing Louisville FC,2,1,America First Field
+2026-05-18,2026,Utah Royals FC,Racing Louisville FC,2,1,America First Field
 2026-05-21,2026,Houston Dash,San Diego Wave FC,2,2,Shell Energy Stadium
 2026-05-21,2026,Angel City FC,Kansas City Current,2,1,BMO Stadium
 2026-05-21,2026,Portland Thorns FC,Bay FC,2,0,Providence Park
-2026-05-23,2026,Utah Royals,Denver Summit FC,2,1,America First Field
+2026-05-23,2026,Utah Royals FC,Denver Summit FC,2,1,America First Field
 2026-05-23,2026,Boston Legacy FC,Seattle Reign FC,1,2,Centreville Bank Stadium
 2026-05-23,2026,Racing Louisville FC,North Carolina Courage,1,2,Lynn Family Stadium
 2026-05-24,2026,Houston Dash,Angel City FC,2,1,Shell Energy Stadium
@@ -975,7 +975,7 @@ date,season,home_team,away_team,home_score,away_score,venue
 2026-05-29,2026,Orlando Pride,Bay FC,3,1,Inter&Co Stadium
 2026-05-30,2026,Racing Louisville FC,Denver Summit FC,0,1,Lynn Family Stadium
 2026-05-30,2026,Kansas City Current,Boston Legacy FC,1,0,CPKC Stadium
-2026-05-30,2026,Portland Thorns FC,Utah Royals,2,2,Providence Park
+2026-05-30,2026,Portland Thorns FC,Utah Royals FC,2,2,Providence Park
 2026-05-30,2026,Washington Spirit,Seattle Reign FC,2,1,Audi Field
 2026-05-31,2026,Angel City FC,North Carolina Courage,1,2,BMO Stadium
 2026-05-31,2026,Chicago Stars FC,San Diego Wave FC,0,2,Northwestern Medicine Field at Martin Stadium
@@ -986,12 +986,12 @@ date,season,home_team,away_team,home_score,away_score,venue
 2026-07-04,2026,Denver Summit FC,Kansas City Current,0,3,Dick's Sporting Goods Park
 2026-07-05,2026,San Diego Wave FC,Gotham FC,2,0,Snapdragon Stadium
 2026-07-05,2026,Boston Legacy FC,Bay FC,2,2,Centreville Bank Stadium
-2026-07-05,2026,Chicago Stars FC,Utah Royals,3,2,Northwestern Medicine Field at Martin Stadium
+2026-07-05,2026,Chicago Stars FC,Utah Royals FC,3,2,Northwestern Medicine Field at Martin Stadium
 2026-07-05,2026,Portland Thorns FC,Racing Louisville FC,4,0,Providence Park
 2026-07-11,2026,Boston Legacy FC,Chicago Stars FC,2,0,Centreville Bank Stadium
 2026-07-11,2026,Racing Louisville FC,Bay FC,0,2,Lynn Family Stadium
 2026-07-11,2026,Orlando Pride,Kansas City Current,3,0,Inter&Co Stadium
-2026-07-11,2026,Utah Royals,Gotham FC,1,3,America First Field
+2026-07-11,2026,Utah Royals FC,Gotham FC,1,3,America First Field
 2026-07-11,2026,North Carolina Courage,Washington Spirit,0,2,WakeMed Soccer Park
 2026-07-12,2026,San Diego Wave FC,Angel City FC,0,2,Snapdragon Stadium
 2026-07-12,2026,Seattle Reign FC,Portland Thorns FC,2,0,Lumen Field
@@ -1003,14 +1003,14 @@ date,season,home_team,away_team,home_score,away_score,venue
 2026-07-18,2026,Gotham FC,Seattle Reign FC,3,2,Icahn Stadium
 2026-07-18,2026,Bay FC,North Carolina Courage,3,0,PayPal Park
 2026-07-18,2026,Chicago Stars FC,Angel City FC,0,2,Northwestern Medicine Field at Martin Stadium
-2026-07-19,2026,Utah Royals,Orlando Pride,1,0,America First Field
+2026-07-19,2026,Utah Royals FC,Orlando Pride,1,0,America First Field
 2026-07-19,2026,Racing Louisville FC,Houston Dash,1,1,Lynn Family Stadium
 2026-07-19,2026,Boston Legacy FC,Washington Spirit,1,2,Centreville Bank Stadium
 2026-07-25,2026,Houston Dash,Bay FC,1,0,Shell Energy Stadium
 2026-07-25,2026,Orlando Pride,Chicago Stars FC,1,0,Inter&Co Stadium
 2026-07-25,2026,Portland Thorns FC,Gotham FC,2,2,Providence Park
 2026-07-25,2026,Boston Legacy FC,Kansas City Current,1,0,Centreville Bank Stadium
-2026-07-25,2026,North Carolina Courage,Utah Royals,1,4,WakeMed Soccer Park
+2026-07-25,2026,North Carolina Courage,Utah Royals FC,1,4,WakeMed Soccer Park
 2026-07-26,2026,Washington Spirit,Denver Summit FC,1,0,Audi Field
 2026-07-26,2026,San Diego Wave FC,Seattle Reign FC,0,2,Snapdragon Stadium
 2026-07-27,2026,Angel City FC,Racing Louisville FC,1,2,BMO Stadium

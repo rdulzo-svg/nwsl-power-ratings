@@ -8,6 +8,11 @@ BASE = "https://site.api.espn.com/apis/site/v2/sports/soccer/usa.nwsl/scoreboard
 # NWSL regular seasons run roughly March-November.
 SEASONS = range(2019, 2027)
 
+# ESPN's API omits "FC" for this one team; normalize to match our team registry.
+NAME_FIXES = {
+    "Utah Royals": "Utah Royals FC",
+}
+
 
 def pull_season(year: int) -> list[dict]:
     params = {
@@ -28,11 +33,14 @@ def pull_season(year: int) -> list[dict]:
         home = next(c for c in comp["competitors"] if c["homeAway"] == "home")
         away = next(c for c in comp["competitors"] if c["homeAway"] == "away")
 
+        home_name = NAME_FIXES.get(home["team"]["displayName"], home["team"]["displayName"])
+        away_name = NAME_FIXES.get(away["team"]["displayName"], away["team"]["displayName"])
+
         rows.append({
             "date": event["date"][:10],
             "season": year,
-            "home_team": home["team"]["displayName"],
-            "away_team": away["team"]["displayName"],
+            "home_team": home_name,
+            "away_team": away_name,
             "home_score": int(home["score"]),
             "away_score": int(away["score"]),
             "venue": comp.get("venue", {}).get("fullName", ""),

@@ -1,9 +1,12 @@
 """Generate a weekly power-rankings snapshot: current rating, change
-over the last 7 days, and current-season record for every team.
+over the last 7 days, current-season record, and attack/defense
+ratings for every team.
 """
 import pandas as pd
+import attack_defense_model as adm
 
 WEEK_CUTOFF_DAYS = 7
+ATTACK_DEFENSE_SEASONS = {2025, 2026}  # most recent window that covers every current team
 
 
 def build_rating_history(preds: pd.DataFrame) -> pd.DataFrame:
@@ -46,16 +49,24 @@ def main():
     week_ago = as_of - pd.Timedelta(days=WEEK_CUTOFF_DAYS)
     current_season = int(matches["season"].max())
 
+    ad_matches = matches[matches["season"].isin(ATTACK_DEFENSE_SEASONS)]
+    ad_model, ad_teams = adm.fit(ad_matches)
+    ad_ratings = adm.ratings(ad_model, ad_teams).set_index("team")
+
     teams = sorted(history["team"].unique())
     rows = []
     for team in teams:
         current = rating_as_of(history, team, as_of)
         prior = rating_as_of(history, team, week_ago)
+        attack = ad_ratings.loc[team, "attack"] if team in ad_ratings.index else 0.0
+        defense = ad_ratings.loc[team, "defense"] if team in ad_ratings.index else 0.0
         rows.append({
             "team": team,
             "rating": round(current, 1),
             "change": round(current - prior, 1),
             "record": season_record(matches, team, current_season),
+            "attack": round(attack, 2),
+            "defense": round(defense, 2),
         })
 
     rankings = pd.DataFrame(rows).sort_values("rating", ascending=False).reset_index(drop=True)
@@ -64,10 +75,11 @@ def main():
     rankings.to_csv("data/weekly_rankings.csv", index=False)
 
     print(f"As of {as_of.date()} (season {current_season})\n")
-    print(f"{'#':>2}  {'Team':28s} {'Rating':>7s} {'Chg':>6s}  {'Record':>7s}")
+    print(f"{'#':>2}  {'Team':28s} {'Rating':>7s} {'Chg':>6s}  {'Record':>7s}  {'Atk':>5s} {'Def':>5s}")
     for r in rankings.itertuples():
         arrow = "+" if r.change > 0 else ("" if r.change == 0 else "")
-        print(f"{r.rank:>2}  {r.team:28s} {r.rating:7.1f} {arrow}{r.change:5.1f}  {r.record:>7s}")
+        print(f"{r.rank:>2}  {r.team:28s} {r.rating:7.1f} {arrow}{r.change:5.1f}  {r.record:>7s}  "
+              f"{r.attack:5.2f} {r.defense:5.2f}")
 
 
 if __name__ == "__main__":
